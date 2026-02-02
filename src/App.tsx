@@ -5,7 +5,7 @@ export default function InvoiceGenerator() {
   const defaultInvoice = {
     invoiceNumber: "2401",
     invoiceDate: "2026-01-15",
-    dueDate: "2026-02-14",
+    dueDate: "2026-02-15",
     customerName: "Nordisk Handel AB",
     customerAddress: "Storgatan 45 B",
     customerPostal: "11422 STOCKHOLM",
