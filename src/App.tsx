@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Plus, Trash2, Download, FileText } from "lucide-react";
 
 export default function InvoiceGenerator() {
